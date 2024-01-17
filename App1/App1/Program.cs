@@ -15,7 +15,6 @@ namespace App1
             Console.WriteLine("Hello World");
             Console.WriteLine("Hello Universe");
             Console.WriteLine("Hello Universe");
-            Console.WriteLine("Hello Universe");
         }
     }
 }
